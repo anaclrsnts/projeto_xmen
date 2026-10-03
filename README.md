@@ -6,7 +6,7 @@ O projeto apresenta diferentes personagens e permite que o usuário alterne entr
 
 ## Demonstração
 
-[**Acesse o projeto →**](https://anaclrsnts.github.io/xmen_project/)
+[**Acesse o projeto →**](https://anaclrsnts.github.io/projeto_xmen/)
 
 ## Funcionalidades
 
